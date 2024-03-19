@@ -1,4 +1,3 @@
-[![MasterHead](https://www.google.com/search?q=analyst+images+hd&tbm=isch&ved=2ahUKEwiOktC-zYCFAxXByjgGHbG3Ax0Q2-cCegQIABAA&oq=analyst+images+hd&gs_lp=EgNpbWciEWFuYWx5c3QgaW1hZ2VzIGhkMgYQABgFGB4yBhAAGAgYHkjkOVCUA1i6NXABeACQAQSYAbcCoAGnHqoBCDAuMTkuMy4xuAEDyAEA-AEBigILZ3dzLXdpei1pbWeoAgrCAgQQIxgnwgIHECMY6gIYJ8ICCBAAGIAEGLEDwgIFEAAYgATCAgoQABiABBiKBRhDwgIEEAAYHogGAQ&sclient=img&ei=Xar5Zc7vKcGV4-EPse-O6AE&bih=730&biw=1536#imgrc=_JCaelRWjJe_KM)]
 <h1 align="center">Hi 👋, I'm Gyan Gourav</h1>
 <h3 align="center">A passionate developer and Analyst from india</h3>
 
